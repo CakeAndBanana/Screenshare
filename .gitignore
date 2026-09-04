@@ -1,0 +1,3 @@
+# Nothing is built in this repo - release zips live on GitHub Releases, never in git
+# (the plugin bundles a ~132MB ffmpeg.exe, well over GitHub's 100MB per-file push limit).
+*.zip
