@@ -1,8 +1,8 @@
 # Cake's Screenshare
 
-A Dalamud plugin for FFXIV that streams your screen or a single window, with its audio,
+Cake's Screenshare is a Dalamud plugin for FFXIV that streams your screen or a single window, with its audio,
 to everyone in a room. People in the room watch it in a pop-out window, or on a screen
-you place in the game world. Streams travel through a relay server.
+you place in the game world. Streams travel through a relay server through specified rooms.
 
 ## Share your screen your way
 1. Create a room (public or private, with an optional password) or join one.
